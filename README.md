@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m a person who believes technology will lead to a better life.
+
 <!--
 **krispediadot/krispediadot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
